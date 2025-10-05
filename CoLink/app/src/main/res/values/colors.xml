@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colink_bg">#0B3B40</color>        <!-- dark teal background -->
+    <color name="colink_teal">#2FB6AD</color>      <!-- button / accent -->
+    <color name="colink_text">#E6F7F6</color>     <!-- main text -->
+    <color name="colink_subtext">#A7D7D4</color>  <!-- lighter subtext -->
+    <color name="white">#FFFFFF</color>
+</resources>

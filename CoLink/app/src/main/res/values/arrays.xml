@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="language_options">
+        <item>English</item>
+        <item>isiZulu</item>
+        <item>isiXhosa</item>
+        <item>Afrikaans</item>
+        <item>Sesotho</item>
+        <item>Setswana</item>
+        <item>Xitsonga</item>
+        <item>French</item>
+        <item>Portuguese</item>
+    </string-array>
+</resources>
